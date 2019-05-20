@@ -11,3 +11,6 @@ bin-release/
 # information for Eclipse / Flash Builder.
 
 .vscode/
+
+CodeChallenge/*/bin/
+CodeChallenge/*/obj/
