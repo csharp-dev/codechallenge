@@ -1,0 +1,11 @@
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\bin\Debug\netcoreapp2.1\Hackerearth.deps.json
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\bin\Debug\netcoreapp2.1\Hackerearth.runtimeconfig.json
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\bin\Debug\netcoreapp2.1\Hackerearth.runtimeconfig.dev.json
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\bin\Debug\netcoreapp2.1\Hackerearth.dll
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\bin\Debug\netcoreapp2.1\Hackerearth.pdb
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\obj\Debug\netcoreapp2.1\Hackerearth.csprojAssemblyReference.cache
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\obj\Debug\netcoreapp2.1\Hackerearth.csproj.CoreCompileInputs.cache
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\obj\Debug\netcoreapp2.1\Hackerearth.AssemblyInfoInputs.cache
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\obj\Debug\netcoreapp2.1\Hackerearth.AssemblyInfo.cs
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\obj\Debug\netcoreapp2.1\Hackerearth.dll
+C:\Users\anit\Desktop\projects\DotNet\csharp-practice\CodeChallenge\Hackerearth\obj\Debug\netcoreapp2.1\Hackerearth.pdb

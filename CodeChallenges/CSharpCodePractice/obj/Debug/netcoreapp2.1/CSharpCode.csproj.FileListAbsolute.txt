@@ -1,0 +1,6 @@
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\CSharpCodePractice\bin\Debug\netcoreapp2.1\CSharpCode.deps.json
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\CSharpCodePractice\bin\Debug\netcoreapp2.1\CSharpCode.dll
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\CSharpCodePractice\obj\Debug\netcoreapp2.1\CSharpCode.csprojAssemblyReference.cache
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\CSharpCodePractice\obj\Debug\netcoreapp2.1\CSharpCode.csproj.CoreCompileInputs.cache
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\CSharpCodePractice\obj\Debug\netcoreapp2.1\CSharpCode.AssemblyInfoInputs.cache
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\CSharpCodePractice\obj\Debug\netcoreapp2.1\CSharpCode.AssemblyInfo.cs

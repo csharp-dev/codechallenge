@@ -1,0 +1,38 @@
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Code.dll
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Code.pdb
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.pdb
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Hackerearth.dll
+C:\Users\anit\Documents\Visual Studio 2017\Projects\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Hackerearth.pdb
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Code.dll
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Hackerearth.dll
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Code.pdb
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\bin\Debug\netcoreapp2.1\Hackerearth.pdb
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\anit\Desktop\projects\DotNet\CSharpCodePractice\NUnitTestProject1\obj\Debug\netcoreapp2.1\Test.pdb
