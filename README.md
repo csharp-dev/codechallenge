@@ -52,31 +52,36 @@
     ----------------------------------------------
 
 
-    Hi. I am Anit and I am a ever learning
-    student of mathematics and computer science.
+    Hi! I am Anit. I am an ever learning student
+    of mathematics and computer science.
 
-    I have worked for many years as a software
+    I have worked for few years as a software
     development engineer and I believe that I
-    have to keep myself skilled so from time to
-    time I have to go through the basics again
-    and after. Keep updated with the newer
-    technologies is a must but not at the cost
-    of forgetting or weakening the basics that
-    are fundamentals of any technology.
+    have to keep myself skilled and updated. 
+    
+    So from time to time I go through the basics,
+    i.e. data structures and algorithms to enhance
+    my problem solving skills and keep myself 
+    competitive.
+
+    Furthermore, to keep myself updated in this
+    technology I need to follow the advancements
+    by trying out the changes on hand.
 
     Hence, the objective of this repository is
-    personal growth and development of programming
-    skills.
+    personal growth and development of 
+    programming skills.
 
     The repository contains the code challenges
     and their solutions from different sources.
-    Also includes implementation of basic data
-    structures and algorithms.
+    It also includes implementation of basic data
+    structures and algorithms in C#.
 
-    The code base is C#.
-
-    Books and other resources can be found at the
+    Books and other resources are in the 
     Resource folder.
+
+    Code challenges solutions from different 
+    sources are in the CodeChallenge folder.
 
 
     ----------------------------------------------
