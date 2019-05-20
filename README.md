@@ -3,9 +3,6 @@
     
     OBJECTIVE - Become A Competitive C# Programmer
     
-    docs.microsoft.com/en-us/dotnet/csharp
-    trello.com/c/FLyAcICx/33-📝📚must-know-for-c-dev
-    
 
     ----------------------------------------------
 
@@ -76,14 +73,14 @@
     Also includes implementation of basic data
     structures and algorithms.
 
-    The code base is Java.
+    The code base is C#.
 
     Books and other resources can be found at the
-    "notes" folder.
+    Resource folder.
 
 
     ----------------------------------------------
-
+    
 
     References from Princeton University to
     re-enforce the basic and advance programming
@@ -133,6 +130,20 @@
     Introduction to Algorithms by CLRS
     Algorithm Design by Kleinberg & Tardos
     The Stony Brook Algorithm Repository
+
+
+    ----------------------------------------------
+
+
+    C# Resources
+
+    Microsoft official site : https://docs.microsoft.com/en-us/dotnet/csharp
+    Introduction to C# : https://courses.edx.org/courses/course-v1:Microsoft+DEV204.1x+1T2019a
+    Algorithms and Data Structures in C# : https://courses.edx.org/courses/course-v1:Microsoft+DEV204.3x+4T2017
+    Object Oriented Programming in C# : https://courses.edx.org/courses/course-v1:Microsoft+DEV204.2x+1T2019a
+    Code repository for "Algorithms" textbook by Robert Sedgewick and Kevin Wayne : https://github.com/nguyenqthai/Algs4Net
+    Book: 22 Design Pattern in C# by Matthew P Jones
+    My personal collection of resources on C# : trello.com/c/FLyAcICx/33-📝📚must-know-for-c-dev
 
 
     ----------------------------------------------
