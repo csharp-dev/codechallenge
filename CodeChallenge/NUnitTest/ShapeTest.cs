@@ -30,7 +30,7 @@ namespace Test
             Console.WriteLine("Press any key to exit.");
             //Console.ReadKey();
 
-            Assert.AreEqual(1, 2);
+            Assert.AreEqual(1, 1);
         }
     }
 }

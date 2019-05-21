@@ -126,12 +126,13 @@
 
 
     Resources for Software Engineers
-    
-    Clean Code by Robert C. Martin
-    Design Patterns by The Gang of Four
+
     Design Principles like KISS, DRY, YAGNI, SOLID
+    Clean Code by Robert C. Martin
     Refactoring by Martin Fowler
     Test Driven Development by Kent Beck
+    Design Patterns by The Gang of Four
+    
     Introduction to Algorithms by CLRS
     Algorithm Design by Kleinberg & Tardos
     The Stony Brook Algorithm Repository
