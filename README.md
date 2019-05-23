@@ -148,8 +148,9 @@
     Algorithms and Data Structures in C# : https://courses.edx.org/courses/course-v1:Microsoft+DEV204.3x+4T2017
     Object Oriented Programming in C# : https://courses.edx.org/courses/course-v1:Microsoft+DEV204.2x+1T2019a
     Code repository for "Algorithms" textbook by Robert Sedgewick and Kevin Wayne : https://github.com/nguyenqthai/Algs4Net
-    Book: 22 Design Pattern in C# by Matthew P Jones
-    My personal collection of resources on C# : trello.com/c/FLyAcICx/33-📝📚must-know-for-c-dev
+    Book: 22 Design Pattern in C# by Matthew P Jones, https://www.exceptionnotfound.net/introducing-the-daily-design-pattern
+    
+    My personal collection of resources on C# : https://trello.com/c/FLyAcICx/33-📝📚must-know-for-c-dev
 
 
     ----------------------------------------------
