@@ -1,4 +1,4 @@
-﻿using Hackerearth;
+﻿using Hackerearth.FizzBuzzN;
 using System;
 using System.Collections.Generic;
 
@@ -12,8 +12,8 @@ namespace hackerearth.practice
             //ReverseIntArray obj = new ReverseIntArray();
             //obj.solution();
 
-            FizzBuzz obj = new FizzBuzz();
-            obj.solution();
+            //FizzBuzz obj = new FizzBuzz();
+            //obj.solution();
         }
 
       

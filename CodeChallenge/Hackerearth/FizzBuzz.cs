@@ -1,17 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
-namespace Hackerearth
+namespace Hackerearth.FizzBuzzN
 {
-  
+    public interface IConsole
+    {
+        string readLine();
+    }
+
+    public class ConsoleImpl : IConsole
+    {
+        public string readLine()
+        {
+            return Console.ReadLine();
+        }
+    }
+
     public class FizzBuzz
     {
         public void solution() {
             try {
                 ConsoleImpl console = new ConsoleImpl();
                 int numbers = readNumberFromConsole(console);
-                int[] intArr = readInts(numbers, console);
+                int[] intArr = convertSpaceSepratedString(numbers);
 
                 List<string[]> fizzBuzzStringList = makeAListOfFizzBuzz(intArr);
                 printFizzBuzzList(numbers, fizzBuzzStringList);
@@ -31,17 +44,16 @@ namespace Hackerearth
             }
         }
            
-
         public List<string[]> makeAListOfFizzBuzz(int[] fizzBuzzNumbers) {
             List<string[]> listOfString = new List<string[]>();
 
             for (int i = 0; i < fizzBuzzNumbers.Length; i++)
-                listOfString.Add(printFizzBuzz(fizzBuzzNumbers[i]));
+                listOfString.Add(makeStringArrOfFizzBuzzOrInt(fizzBuzzNumbers[i]));
 
             return listOfString;
         }
 
-        public String[] printFizzBuzz(int number) {
+        public String[] makeStringArrOfFizzBuzzOrInt(int number) {
             String[] listOfString = new String[number];
 
             for (int i = 1; i <= number; i++) {
@@ -80,11 +92,23 @@ namespace Hackerearth
             return false;
         }
 
-        public int[] readInts(int numberOfInt, IConsole console) {
+        public int[] convertSpaceSepratedString(int numberOfInt)
+        {
+            int[] numbers = new int[numberOfInt];
+            String strOfSpaceSepNums = Console.ReadLine();
+
+            numbers = strOfSpaceSepNums.Split(' ').Select(n => Convert.ToInt32(n)).ToArray();
+
+            return numbers;
+        }
+
+        public int[] convertASingleInputWord(int numberOfInt, IConsole console)
+        {
             int[] numbers = new int[numberOfInt];
             int count = 0;
 
-            while (numberOfInt > 0) {
+            while (numberOfInt > 0)
+            {
                 int num = readNumberFromConsole(console);
                 numbers[count] = num;
                 count++;
@@ -94,7 +118,12 @@ namespace Hackerearth
             return numbers;
         }
 
-        int[] reversedIntArr(int[] originalArr) {
+        public int readNumberFromConsole(IConsole console) {
+            return int.Parse(console.readLine());
+        }
+
+        int[] reverseIntArr(int[] originalArr)
+        {
             int lenOfOrgArr = originalArr.Length;
             int[] reversedArr = new int[lenOfOrgArr];
             int index = lenOfOrgArr - 1;
@@ -105,8 +134,5 @@ namespace Hackerearth
             return reversedArr;
         }
 
-        public int readNumberFromConsole(IConsole console) {
-            return int.Parse(console.readLine());
-        }
     }
 }

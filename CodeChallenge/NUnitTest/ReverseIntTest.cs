@@ -18,8 +18,6 @@ namespace Test
             objUnderTest = new ReverseIntArray();
         }
 
-
-
         [TestCase( 4, ExpectedResult = new int[] { 1, 2, 3, 4 } )]
         public object returnsIntArrReadFromConsole(int number) {
             var mockedRCLI = new Mock<IConsole>();
@@ -50,7 +48,7 @@ namespace Test
             //MethodInfo methodInfo = typeof(ReverseIntArray).GetMethod("readInts", BindingFlags.NonPublic | BindingFlags.Instance);
             //var actual = methodInfo.Invoke(objUnderTest, parameters);
 
-           return objUnderTest.readInts(number, mockedRCLI.Object);
+            return objUnderTest.readInts(number, mockedRCLI.Object);
         }
     
         [Test]

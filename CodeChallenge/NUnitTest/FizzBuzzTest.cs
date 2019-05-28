@@ -3,10 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using NUnit.Framework;
-using Hackerearth;
+using Hackerearth.FizzBuzzN;
 
 
-namespace NUnitTest
+namespace Test.FizzBuzzN
 {
     [TestFixture]
     class FizzBuzzTest
@@ -20,7 +20,7 @@ namespace NUnitTest
         public object validTest_CaseOne(int number)
         {
             FizzBuzz ojb = new FizzBuzz();
-            return ojb.printFizzBuzz(number);
+            return ojb.makeStringArrOfFizzBuzzOrInt(number);
         }
 
         [TestCase(
@@ -31,7 +31,7 @@ namespace NUnitTest
         public object validTest_CaseTwo(int number)
         {
             FizzBuzz ojb = new FizzBuzz();
-            return ojb.printFizzBuzz(number);
+            return ojb.makeStringArrOfFizzBuzzOrInt(number);
         }
 
         [TestCase(
@@ -50,6 +50,8 @@ namespace NUnitTest
 
             Assert.AreEqual(expected, actual);
         }
+
+        
 
     }
 }
